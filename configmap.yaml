@@ -1,6 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: set8-config
-data:
-  APP_MESSAGE: "Hello from Kubernetes ConfigMap"
